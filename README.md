@@ -15,7 +15,7 @@ Before using this script, make sure you have the following prerequisites install
 
    Clone this repository to your local machine using the following command:
    
-   `git clone https://github.com/yourgithubusername/dbt-yaml-generator.git`
+   `git clone https://github.com/yourgithubusername/DBT_YML_Generator.git`
 
 
 2. **Navigate to the Directory**:
