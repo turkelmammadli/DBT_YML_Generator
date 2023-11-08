@@ -1,6 +1,7 @@
 # DBT YAML Generator
 
-This Python script automates the process of generating YAML documentation files for your DBT (Data Build Tool) models. Proper documentation is crucial for understanding your data models and facilitating collaboration within your data engineering team. With this script, you can easily create documentation files for each of your DBT models.
+This Python script automates the process of generating YAML documentation files for your DBT (Data Build Tool) models. The only limitation is that, it requires CTE usage, otherwise columns are not generated
+Proper documentation is crucial for understanding your data models and facilitating collaboration within your data engineering team. With this script, you can easily create documentation files for each of your DBT models.
 
 ## Prerequisites
 
